@@ -6,6 +6,15 @@ function App() {
     <div className="App">
       <h1>Weather search engine</h1>
       <Search />
+      <p>
+        This project was coded by Lucie Barbier-Dearnley. Open-sourced on{" "}
+        <a
+          href="https://github.com/luciebarbierdearnley/react-weather-app"
+          target="_blank"
+          rel="noreferrer">
+          GitHub
+        </a>
+      </p>
     </div>
   );
 }
