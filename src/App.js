@@ -9,7 +9,7 @@ function App() {
       <p>
         This project was coded by Lucie Barbier-Dearnley. Open-sourced on{" "}
         <a
-          href="https://github.com/luciebarbierdearnley/react-weather-app"
+          href="https://github.com/luciebarbierdearnley/lucie-test-react"
           target="_blank"
           rel="noreferrer">
           GitHub
